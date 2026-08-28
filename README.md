@@ -1,1 +1,11 @@
-# vnicolle56610.github.io
+# Portail maths-nicolle.fr
+
+Ce dépôt contient le portail principal du site
+[www.maths-nicolle.fr](https://www.maths-nicolle.fr).
+
+Il propose une page d'accueil statique qui redirige vers les trois sites
+pédagogiques :
+
+- [Seconde générale et technologique](https://www.maths-nicolle.fr/maths-seconde/)
+- [Première générale — spécialité mathématiques](https://www.maths-nicolle.fr/maths-premiere-specialite/)
+- [Première STMG — mathématiques](https://www.maths-nicolle.fr/maths-1stmg/)
