@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.maths-nicolle.fr/sitemap-portal.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.maths-nicolle.fr/maths-seconde/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.maths-nicolle.fr/maths-premiere-specialite/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.maths-nicolle.fr/maths-1stmg/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
